@@ -467,5 +467,5 @@ All captured traffic is converted to network flow format using NFStream and labe
 
 ## Disclaimer
 
-This project was developed and implemented as part of a Master's Thesis at Technische Universität Chemnitz (Chair of Communication Networks). It serves as the practical component for the research on automated IDS evaluation and is intended for academic and educational purposes.
+This project was developed and implemented as part of a Master's Thesis at Technische Universität Chemnitz (Chair of Communication Networks) ending in September 2023. It serves as the practical component for the research on automated IDS evaluation and is intended for academic and educational purposes.
 
