@@ -171,7 +171,7 @@ A virtual network environment (e.g., OpenStack) hosting:
 
 ## Lab Setup
 
-To deploy this framework, you need a virtualized network environment.
+To deploy this framework, we used a virtualized network environment.
 
 ### System Description
 
@@ -264,8 +264,6 @@ Modify configuration files to customize bot behavior:
 - **`user_profiles/oop/log_file_path.yml`** - Logging configuration
 - **`user_profiles/oop/bot_executor.py`** - Bot generator parameters (duration, counts, warmup period)
 
-<<<<<<< HEAD
----
 
 ## Experimental Scenarios
 
@@ -467,5 +465,7 @@ All captured traffic is converted to network flow format using NFStream and labe
 
 <img width="793" height="393" alt="image" src="https://github.com/user-attachments/assets/1b29ccf2-987e-46f2-8fe5-f8355f98de81" />
 
+## Disclaimer
 
+This project was developed and implemented as part of a Master's Thesis at Technische Universität Chemnitz (Chair of Communication Networks). It serves as the practical component for the research on automated IDS evaluation and is intended for academic and educational purposes.
 
