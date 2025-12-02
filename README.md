@@ -455,8 +455,6 @@ The experimental scenarios are designed to:
 5. **Provide balanced datasets:** Benign and malicious traffic in realistic proportions
 
 All captured traffic is converted to network flow format using NFStream and labeled for supervised learning tasks.
-=======
-
 
 
 <img width="803" height="606" alt="image" src="https://github.com/user-attachments/assets/5ad8ca1e-990a-42f5-968b-3757db961b9d" />
@@ -468,5 +466,6 @@ All captured traffic is converted to network flow format using NFStream and labe
 <img width="785" height="386" alt="image" src="https://github.com/user-attachments/assets/4892c0d5-6ab1-432a-a5dd-f1184b3393e9" />
 
 <img width="793" height="393" alt="image" src="https://github.com/user-attachments/assets/1b29ccf2-987e-46f2-8fe5-f8355f98de81" />
->>>>>>> 7fbc4fcbe436ab5f39c888382642874f316b5241
+
+
 
