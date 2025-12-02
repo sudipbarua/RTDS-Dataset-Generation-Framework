@@ -1,0 +1,249 @@
+browsing:
+  websites:
+      - 'https://twitter.com/ScienceMagazine'
+      - 'https://www.reddit.com/'
+      - 'https://www.tiktok.com/'
+      - 'https://de.yahoo.com/'
+      - 'https://www.msn.com/'
+      - 'https://stackoverflow.com/questions/tagged/javascript'
+      - 'https://stackoverflow.com/questions/tagged/python'
+      - 'https://stackoverflow.com/questions/tagged/java'
+      - browse_search:
+        - 'https://duckduckgo.com/'
+        - 'https://www.amazon.de/'
+        - 'https://www.booking.com/'
+      - 'https://www.linkedin.com/'
+      - 'https://www.facebook.com/'
+      - 'https://www.google.com/'
+      - 'https://www.youtube.com'
+  general_search_keywords:
+    - 'science'
+    - 'hacking'
+    - 'funny'
+    - 'entertainment'
+    - 'runtime error'
+    - 'food'
+    - 'travel'
+  job_search_keywords:
+    - 'Cybersecurity'
+    - 'Network Engineer'
+    - 'Engineer'
+    - 'Doctor'
+    - 'Nurse'
+    - 'Sales person'
+    - 'Accountant'
+    - 'Manager'
+    - 'Researcher'
+  hotel_search_keywords:
+    - 'Berlin'
+    - 'Dresden'
+    - 'Newyork'
+    - 'Hamburg'
+    - 'Frankfurt'
+    - 'Munich'
+    - 'Stuttgart'
+    - 'Milan'
+    - 'Madrid'
+    - 'Barcelona'
+    - 'London'
+    - 'Rome'
+    - 'Venice'
+    - 'Prague'
+    - 'Budapest'
+    - 'Amsterdam'
+    - 'Vienna'
+  amazon_search_keywords:
+    - 'laptop'
+    - 'mobile'
+    - 'essentials'
+    - 'accessories'
+    - 'household'
+    - 'furniture'
+
+chatting:
+  skype:
+    - username: 'Nik Tes'
+      skypename: 'live:.cid.392bc2eb8b9ea50'
+      email: 'tnikola230@gmail.com'
+      password: 'tucKN2022'
+    - username: 'Jo Kep'
+      skypename: 'live:.cid.56ce10ff76559cf6'
+      email: 'jokeptuc@gmail.com'
+      password: 'tucKN2022'
+    - username: 'Alb Stein'
+      skypename: 'live:.cid.5ab9de3da9ccb5a1'
+      email: 'ae3336294@gmail.com'
+      password: 'tucKN2022'
+  texts:
+    - 'Hi there'
+    - 'Hello'
+    - 'Good morning'
+    - 'Have a nice day!!!'
+    - 'Send me a photo of yours'
+    - 'Can you share your photo?'
+    - 'Interesting!!! Send me a video, would you?'
+    - 'Can you share the video?'
+    - 'I would be glad if you could share your paper on that topic'
+    - 'Very interesting topic. Please share a reference paper with me'
+    - 'Glad to hear from you'
+
+emailing:
+  attachments:
+    - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/19190300-01.pdf'
+    - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/Nikola_Tesla_and_the_Wireless_Transmission_of_Energy.pdf'
+    - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/The Inventions, Researches and Writings of Nikola Tesla, ch. 63.pdf'
+    - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/THE_FANTASTIC_INVENTIONS_OF_NIKOLA_TESLA.pdf'
+  mailcow:
+    - email: 'user1@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user2@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user3@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user4@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user5@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user6@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user7@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user8@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user9@mydomain.local'
+      password: 'tuckn2023'
+    - email: 'user10@mydomain.local'
+      password: 'tuckn2023'
+  gmail:
+    - email: 'tnikola230@gmail.com'
+      password: 'tucKN2022'
+    - email: 'jokeptuc@gmail.com'
+      password: 'tucKN2022'
+    - email: 'ae3336294@gmail.com'
+      password: 'tucKN2022'
+  subject:
+    - 'Unsere Umfrage ist kurz, aber wichtig'
+    - 'Take some time to read this'
+    - 'Rate your experience about our service'
+    - 'Happy Holidays from us'
+    - 'enjoy your amazing benefits this festive season'
+    - 'Find jobs with the flexibility you want'
+    - 'Are you ready for a journey'
+    - 'How to Actually Write 1000 Words a Day'
+    - '10 Python Scripts for Everyday Automation | Haider Imtiaz in Python in Plain English'
+  mailbody:
+    - "Ericsson offers a plethora of limitless possibilities. Learn more about Artificial Intelligence, Machine Learning, and Data Science opportunities from our Industry experts at Ericsson and how you can build a career with us. Details:   Meet us at Meet The Manager Webinar for GAIA with Dr Sunil Kumar Vuppala on January 20, 2023, at 4 pm IST       About The Webinar Join us to understand how AI plays a crucial role in Telecom and how we wish to make Ericsson a leader in Telecom AI. We will also explain how you can be part of this outstanding culture and advance your career while creating a global impact.     Specifically, you will get insights into: Ericsson's History, Vision Role of GAIA in Ericsson       AI in product and service portfolio Telecom automation journey       AI/ ML use cases Vision of future network operations Find out how you can become a part of this great journey - providing limitless connectivity & creating tomorrow - today       About Ericsson Imagine a better, brighter tomorrow. You can be the one who makes it possible.       For more than a century, our technologies have transformed every sector of society, helping to create positive change. As the tech firm that created the mobile world - with more than 54,000 patents to our name; we’ve made it our business to make a mark. With us, you will no longer be dreaming of what the future holds – you will be redefining it. Leveraging everything from hyper-automation to multi-experience. A place where you're welcomed as your own perfectly unique self and celebrated for the skills, talent, and perspectives; you bring to the team.        Ericsson India is considered a Great Place to Work. From 2015 to 2022, for 8 consecutive years, Ericsson India is listed among the Top 100 India’s Best companies to work for.       About the GAIA Team Global Artificial Intelligence Accelerator (GAIA) has been set up as a center of AI excellence to accelerate the AI roadmaps across all Ericsson’s Business Units and Market Areas around the world. GAIA was established in 2018, with an aim to drive Thought Leadership via AI driven Innovation along with powering research and development. Across hubs in the United States, Canada, Sweden and India, GAIA linux_hosts around 300+ experts to fast-track the strategy execution.       GAIA is key in accelerating the execution of Ericsson's focused strategy by leveraging cutting edge AI and Automation technologies to create data driven, intelligent, and robust systems for automation, evolution, and growth. Our team of experts continually push the envelope by building, testing, and adopting AI integrated solutions with our partners building on the vast learnings from our extensive global networks. Teams in GAIA build and deploy AI models into production with a focus on scaling, monitoring, and performance.        Why Join GAIA in Ericsson? At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. It will be practically impossible for human brains to understand how to run and optimize next generation of wireless networks, i.e., 5G network with distributed edge compute, that will drive economic and social transformation for all aspects of society. Machine Learning (ML) and other Artificial Intelligence (AI) technologies will be vital for us to handle this opportunity.       Machine Intelligence, the combination of Machine Learning and other Artificial Intelligence technologies is what Ericsson uses to drive thought leadership to automate and transform Ericsson offerings and operations. MI is also a key competence for to enable new and emerging business. This includes development of models, frameworks and infrastructure where we in our advancements push the technology frontiers. We engage in both academic and industry collaborations and drive the digitalization of Ericsson and the Industry by developing state of the art solutions that simplify and automate processes in our products and services and build new value through data insights.       Do you have in depth understanding of Machine Learning and AI technologies? Do you want to apply and extend those skills to solve real complex problems with high societal impact, going beyond ML/AI for consumption and advertising? Then, you do want to join Ericsson’s global team of Engineers/Scientists pushing the technology frontiers to automate, simplify and add new value through large and complex data."
+    - "Did you know there is a worldwide collegiate competition where engineering students build and race Formula-style EV racing cars? Delft University's team uses Marple and InfluxDB to collect telemetry and sensor metrics while they develop, test, and race their electric cars. By using the joint solution, their team are able to collect, share and analyze high frequency car data used to make their car faster at competitions. This is a 1-hour webinar with Q&A, so stick around for a live demo and Q&A time."
+    - "Diese E-Mail enthält vertrauliche und/oder rechtlich geschützte Informationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und vernichten diese Mail. Das unerlaubte Kopieren sowie die unbefugte Weitergabe dieser Mail sind nicht gestattet."
+    - "This e-mail may contain confidential and / or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail. Any unauthorized copying, disclosure or distribution of the material in this e-mail are strictly forbidden."
+    - "Hi guys! 👋 Have you ever been to a beer garden? 🍻🥨 If not, you've probably heard of beer gardens, because they are typically German and also well-known abroad. They are gardens where you drink beer, of course. But how did they actually come about? Why are there only such big beers there? And why are there always chestnut trees and pebbles there? Cari explains everything you need to know about beer gardens in this episode! Do you enjoy going to beer gardens? Are there beer gardens in your home country? Write us a comment! 😃"
+    - "TODAY'S HIGHLIGHTS
+
+       10 Python Scripts for Everyday Automation
+       A handy collection of scripts for your daily life tasks and problems
+       Python in Plain English
+       Haider Imtiaz in Python in Plain English·8 min readMember only content
+       10 Basic Needs Men Have In Relationships
+       Wait…do guys have feelings too?!
+       James Michael Sama
+       James Michael Sama·10 min readMember only content
+       I 10xed My Discipline By Following This One Simple Habit Religiously
+       How to break out of your comfort zone.
+       Better Advice
+       Moreno Zugaro in Better Advice·3 min readMember only content
+       I’ve Watched 600+ YouTube Channels so Far — These 6 Are the Best
+       Spanning self-improvement, fitness, personal finance, philosophy, and more
+       Publishous
+       Neeramitra Reddy in Publishous·4 min readMember only content
+       IN CASE YOU MISSED IT
+
+       5 Books That Will Make You Smarter
+       Read and get inspired
+       Books Are Our Superpower
+       Maryam in Books Are Our Superpower·6 min readMember only content
+       Fuck Passion, I Will Do 9–5
+       Now, kill me for dreaming about it
+       Lucas Dawn
+       Lucas Dawn·5 min read
+       Excel - Most used formulas needed for a Data Analyst.
+       “Nail the basics first, detail the details later — Chris Anderson”
+       Piyush Jain
+       Piyush Jain·4 min read
+       QUICK READS
+
+       5 Problems Everyone Has With PYTHON — How To Solved Them
+       Python is a programming language that is easy to use and understand. It can be used for many different tasks…
+       Muhammadawais
+       Muhammadawais·4 min read
+       My Most Used DAX Formulas in Under 2 Minutes
+       This will be the shortest article you’ve read that gives you valuable DAX formulas that I’ve used for many of…
+       Da Data Guy
+       Da Data Guy·3 min read
+       Learn SQL with Hands-On Exercises — anything you learn immediately starts to…
+       How do you learn effectively? Learning technology can be intimidating especially because technology is…
+       Benjamin Sila Mutuku
+       Benjamin Sila Mutuku·4 min read
+       MORE FOR YOU
+
+       5 Cheap Purchases That Will Make You More Productive
+       These cheap items can save you time, make you healthy, reduce mental and visual clutter, and most…
+       Irtiza Hafiz
+       Irtiza Hafiz·7 min readMember only content
+       10 Super Useful Websites That You (Probably) Never Heard of
+       Great resources that may help you
+       DataDrivenInvestor
+       Jerry Keszka in DataDrivenInvestor·5 min readMember only content
+       44 Books for DevOps, Site Reliability, and Cloud Engineers
+       This blog post showcases some books to advance your career to the next level. We will look into books…
+       Spacelift
+       Ioannis Moustakis in Spacelift·11 min readMember only content
+       EDITORS' PICKS
+
+       Living Boundaries
+       In this series we’ve explored different ways to set personal boundaries. As critical as setting boundaries…
+       Ryder Carroll
+       Ryder Carroll·6 min read
+       The Real Left Brain, Right Brain Story?
+       Reviewing Iain McGilchrist’s The Master and His Emissary
+       Invisible Illness
+       John Kruse in Invisible Illness·9 min readMember only content
+       How to Travel Through Urban Landscapes with a Camera in Your Hand
+       I’ve never bought into the big travel gig. I simply desired to meet lots of new people — and learn about who…
+       Photography101
+       Sean P. Durham in Photography101·5 min readMember only content"
+    - "TRANSCRIPTS
+       ► Download the transcript (German only)
+       ► Download the transcript(German/English)
+       ► Archive with all our transcripts
+
+       VOCAB & EXERCISES
+       ► Go to our new worksheet on Seedlang to get vocab and exercises for this video
+       ► For an overview of all worksheets, click on the \"Patrons\" button at the top of the Seedlang website.
+        ► Use this link when you are signing up for Seedlang the first time.
+        
+        DISCORD
+        ► Join us on Discord and practise your German with us and other members daily
+        
+        VIDEO DOWNLOADS & ARCHIVE
+        ► As a member of the video membership (or higher tiers) you can also download this video with and without subtitles. You can find the link to our video archives in the \"my membership\" section in the welcome-note.
+        
+        Viele liebe Grüße aus Berlin senden euch
+        Janusz und Cari - und das gesamte Easy German Team! 😃"
+    - "Hallo Leute! 👋 Wart ihr schon mal in einem Biergarten? 🍻🥨 Wenn nicht, habt ihr bestimmt schon mal von Biergärten gehört, denn die sind typisch deutsch und auch im Ausland bekannt. Das sind natürlich Gärten, wo man Bier trinkt, klar. Aber wie sind sie eigentlich entstanden? Warum gibt es dort nur so große Biere? Und warum gibt es dort immer Kastanienbäume und Kieselsteine? Cari erklärt euch in dieser Episode alles, was ihr zu Biergärten wissen müsst! Geht ihr gerne in Biergärten? Gibt es überhaupt Biergärten in eurer Heimat? Schreibt uns einen Kommentar! 😃 "
+
+ftp:
+  users:
+    - ip: '10.10.51.16'
+      username: 'user'
+      pass: 'user'
+  file_dir:
+      normal_files:
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/19190300-01.pdf'
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/Nikola_Tesla_and_the_Wireless_Transmission_of_Energy.pdf'
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/The Inventions, Researches and Writings of Nikola Tesla, ch. 63.pdf'
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/docs/THE_FANTASTIC_INVENTIONS_OF_NIKOLA_TESLA.pdf'
+      cd_files:
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/videos/Y2Mate.is - How To Be A Genius Like Nikola Tesla  Top 10 Bizarre Tesla Facts-HjC5n-jOxF0-720p-1654963501842.mp4'
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/videos/Y2Mate.is - Nikola Tesla Invents the Radio-V_LkCEey3_s-480p-1654963398990.mp4'
+          - '/home/sudip/rtds_project/user_profiles/skpy_auto-reply-bot/videos/Y2Mate.is - Nikola Tesla Invents the Radio-V_LkCEey3_s-1080p-1654963375766.mp4'
+

@@ -1,0 +1,23 @@
+---
+- name: Run commands on target hosts
+  hosts: linux_hosts
+  vars:
+    ansible_user: user1
+    ansible_ssh_pass: user1
+  tasks:
+    - name: Run Python script
+      shell: source /home/user1/scripts/project_venv/bin/activate && python3 ./home/user1/scripts/SDN-dataset/user_profiles/oop/bot_gen_test.py > log.txt
+      always: true
+      when: ansible_os_family == "Ubuntu"
+
+    - name: Fetch log file
+      fetch:
+        src: "/home/user1/scripts/SDN-dataset/user_profiles/oop/log.txt"
+        dest: "./logs/{{ inventory_hostname }}.log"
+
+    - name: Print console output
+      command: cat ./logs/{{ inventory_hostname }}.log
+
+- name: Run in win
+
+# run the playbook using this command: ansible-playbook -i inventory/hosts playbooks/commands.yml
